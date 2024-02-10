@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RezaSaadati1
 - 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning C#, ASP.NET Core
 - 📫 How to reach me rezasaadati2004@gmail.com
 
 <!---
